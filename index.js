@@ -9,5 +9,6 @@ function playText(text) {
         console.log('Matn eshittirildi!');
     });
 }
-
+//Matn bu yerda yoziladi |
+//                       v
 playText("Salom, bu avtomatik ovozli eshittirish testi!");
